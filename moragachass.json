@@ -1,45 +1,48 @@
 {
-  "notice": [
-    {
-      "id": 1,
-      "date": "",
-      "title": "",
-      "body": ""
-    }
-  ],
-  "slider-image": [
-    {
-      "id": 1,
-      "image": ""
-    }
-  ],
-  "chairman": {
-    "image": "",
-    "name": "",
-    "message": ""
-  },
-  "principal": {
-    "image": "",
-    "name": "",
-    "message": ""
-  },
-  "history":{
-    "body":""
-  },
-  "links":[
-    {
+    "moragachass":{
         "id":1,
-        "title":"",
-        "link":""
+        "notice": [
+          {
+            "id": 1,
+            "date": "",
+            "title": "",
+            "body": ""
+          }
+        ],
+        "slider-image": [
+          {
+            "id": 1,
+            "image": ""
+          }
+        ],
+        "chairman": {
+          "image": "",
+          "name": "",
+          "message": ""
+        },
+        "principal": {
+          "image": "",
+          "name": "",
+          "message": ""
+        },
+        "history":{
+          "body":""
+        },
+        "links":[
+          {
+              "id":1,
+              "title":"",
+              "link":""
+          }
+        ],
+        "displayImage":{
+          "body":""
+        },
+        "imageContainer":[
+          {
+              "id":1,
+              "image":""
+          }
+        ]
     }
-  ],
-  "displayImage":{
-    "body":""
-  },
-  "imageContainer":[
-    {
-        "id":1,
-        "image":""
-    }
-  ]
 }
