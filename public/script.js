@@ -1,10 +1,10 @@
 document.getElementById("post").addEventListener("click", () => {
-  fetch("https://api-le4v.onrender.com/levels", {
+  fetch("https://practiceapi-i1oq.onrender.com/name", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
       id: 3,
-      name: "Ratul"
+      name: "Ratul",
     }),
   })
     .then((res) => res.json())
